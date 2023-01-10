@@ -4,3 +4,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+/* MAIN */
+main div{
+    text-align: center;
+    padding-top: 20px;
+}
