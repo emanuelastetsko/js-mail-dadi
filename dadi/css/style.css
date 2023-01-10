@@ -4,3 +4,29 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+/* MAIN */
+main .container{
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+main div h1 {
+    padding-bottom: 20px;
+    font-weight: lighter;
+}
+
+main div span{
+    padding: 0 10px;
+}
+
+main div div{
+    padding: 15px 0;
+}
+
+main div button{
+    padding: 2px 5px;
+    vertical-align: middle;
+    line-height: 2em;
+}
